@@ -55,6 +55,3 @@ The analysis covers data cleaning, preprocessing, statistical exploration, and p
 - **Jupyter Notebook** – Interactive coding & analysis  
 
 ---
-
-## 📂 Project Structure
-
